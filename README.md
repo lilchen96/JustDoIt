@@ -1,2 +1,2 @@
 # JustDoIt
-## Just a test
+## Just test
